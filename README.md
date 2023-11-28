@@ -1,2 +1,3 @@
-# my-comp141-project
+# My COMP141 Project Repo
+
 **THIS IS MY CODEBASE**
